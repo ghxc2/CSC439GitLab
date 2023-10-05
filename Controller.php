@@ -2,6 +2,8 @@
 declare(strict_types=1);
 
 class YahtzeeController {
+
+    /* Comment added to test GIT */”
     
     private Yahtzee $model;
     private YahtzeeView $view;
